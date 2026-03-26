@@ -7,7 +7,7 @@ It combines Facebook Ads and Google Ads datasets, cleans and decodes URL paramet
 
 ---
 
-## 🗂 Datasets
+## Datasets
 - `facebook_ads_basic_daily`
 - `google_ads_basic_daily`
 
